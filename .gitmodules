@@ -41,7 +41,7 @@
 [submodule "external/Eigen"]
 	path = external/Eigen
 	url = https://gitlab.com/libeigen/eigen.git
-	branch = 3.x
+	branch = 3.4
 [submodule "external/tsl-robin-map"]
 	path = external/tsl-robin-map
 	url = https://github.com/Tessil/robin-map.git
